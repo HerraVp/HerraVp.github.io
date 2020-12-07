@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: yellow;
+}
+#banner{
+    background: url(img/background.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.logo{
+    width: 140px;
+    position: absolute;
+    top: 4;
+    left: 0%;
+    text-align: left;
+}
+.banner-text{
+    text-align: center;
+    color: #fff;
+    padding-top: 180px;
+}
+.banner-text h1{
+    font-size: 130px;
+}
+.banner-text p{
+    font-size: 20px;
+    
+}
+
+.hr {
+    color: #383838;
+}
