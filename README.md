@@ -1,2 +1,6 @@
 # herravp.github.io
-My own Github.io page
+My own website.
+### NOTE
+The website is still in development ! but still feel free to give it a visit !
+
+https://vp-dev.tk
