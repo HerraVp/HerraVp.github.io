@@ -1,6 +1,6 @@
 # herravp.github.io
 My own website.
-### NOTE
+### NOTE!
 The website is still in development ! but still feel free to give it a visit !
 
 https://vp-dev.tk
