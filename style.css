@@ -34,3 +34,9 @@
 .hr {
     color: #383838;
 }
+
+.info {
+    text-align: center;
+    bottom: 5%;
+    font-size: 10px;
+}
