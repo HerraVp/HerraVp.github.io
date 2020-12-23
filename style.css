@@ -13,7 +13,7 @@
 
 .logo{
     float: left;
-    width: 120;
+    width: 150px;
 }
 
 .banner-text{
@@ -35,6 +35,6 @@
 
 .info {
     text-align: center;
-    bottom: 5%;
+    bottom: 10%;
     font-size: 10px;
 }
