@@ -12,12 +12,10 @@
 }
 
 .logo{
-    width: 140px;
-    position: absolute;
-    top: 4;
-    left: 0%;
-    text-align: left;
+    float: left;
+    width: 120;
 }
+
 .banner-text{
     text-align: center;
     color: #fff;
