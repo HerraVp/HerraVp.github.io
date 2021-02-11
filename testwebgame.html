@@ -1,3 +1,17 @@
+<head>
+    <title>Test game</title>
+    <link rel="icon" href="../img/vp.png" type="image/icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<section id="banner">
+<div class="bannertxt">
+    <h1>Snakegame test</h1>
+
+    <p class="twcernt" style="font-size: 17px; text-align: center;">
+        Idk really why i made this lol. I was just bored i guess. :D
+        </p>
+</div>
+
 <canvas id="gc" width="400" height="400"></canvas>
 <script>
 window.onload=function() {
@@ -27,7 +41,7 @@ function game() {
 	if(py>tc-1) {
 		py= 0;
 	}
-	ctx.fillStyle="black";
+	ctx.fillStyle="gray";
 	ctx.fillRect(0,0,canv.width,canv.height);
 
 	ctx.fillStyle="lime";
@@ -67,3 +81,4 @@ function keyPush(evt) {
 	}
 }
 </script>
+</section>
